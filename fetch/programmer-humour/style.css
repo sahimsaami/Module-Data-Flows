@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px; 
+  font-family: "Courier New", Courier, monospace;
+}
+
+img {
+  max-width: 100%;
+  margin-top: 20px;
+}
+
+#error {
+  color: red;
+}
